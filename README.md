@@ -5,6 +5,7 @@ This is the basic backend for a PERN (PostgreSQL, Express, React, Node.js) stack
 ## 📁 Project Structure
 
 `/pern-stack/server` ← This is the root folder for the Node.js backend.
+
 `/pern-stack/client` ← This is the root folder for the React.js frontent.
 
 
