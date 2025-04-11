@@ -27,7 +27,7 @@ Create a .env file in the root of the server folder with your environment variab
 DB_USER = your_user
 DB_PASSWORD = your_password
 DB_HOST = your_host
-DB_DATABASE = your_database_nae
+DB_DATABASE = your_database_name
 ```
 
 Go to client directory and install dependencies
